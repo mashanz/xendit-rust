@@ -1,6 +1,8 @@
 [package]
 name = "xendit"
 version = "0.0.1"
+description = "Xendit Rust SDK"
+authors = ["Hanjara Adhyatma"]
 edition = "2021"
 
 [dependencies]
